@@ -3,9 +3,11 @@
 </div>  
 
 
+<br/>
 
 ### <div align="center">I'm Aldova, a full-time full-stack software developer 👨‍💻 working remotely as freelancer since 2018 🚀</div>  
   
+<br/>
 
 - 🔭 I’m currently working on [praktech.id](https://www.instagram.com/praktech.id/?next=%2F)  
   
