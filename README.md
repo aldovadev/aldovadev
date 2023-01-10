@@ -5,12 +5,12 @@
 
 ### <div align="center">I'm Aldova, a full-time full-stack software developer 👨‍💻 working remotely as freelancer since 2018 🚀</div>  
 
-🔭 I’m currently working at Basitungkin Laboratory as software engineer
-🌱 I’m currently learning flutter
-💬 Ask me about anything
-📄 Know about my experiences : https://drive.google.com/file/d/1Emud5Xx_zilxoXWjZfBdNt3BDUpLG487/view?usp=sharing
-⚡ Hobby : gaming, hiking, badminton, and music  
-📫 How to reach me: aldova811@gmail.com
+-🔭 I’m currently working at Basitungkin Laboratory as software engineer
+-🌱 I’m currently learning flutter
+-💬 Ask me about anything
+-📄 Know about my experiences : https://drive.google.com/file/d/1Emud5Xx_zilxoXWjZfBdNt3BDUpLG487/view?usp=sharing
+-⚡ Hobby : gaming, hiking, badminton, and music  
+-📫 How to reach me: aldova811@gmail.com
 
 
 ## 🌐 Socials:
