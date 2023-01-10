@@ -1,3 +1,9 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+
+
 ### <div align="center">I'm Aldova, a full-time full-stack software developer 👨‍💻 working remotely as freelancer since 2018 🚀</div>  
   
 
