@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 
 
@@ -27,8 +27,8 @@
 
 # 🏆 Achievement:
 
-- 1st  Place, Fire Fighting Robot Contest of Indonesia, Regional I (Riau, 2018) 
-  Ministry of Research, Technology and Higher Education Indonesia
+- 1st  Place, Fire Fighting Robot Contest of Indonesia, Regional I (Riau, 2018) | Ministry of Research, Technology and Higher Education Indonesia
+- Best Algorithm Appreciation, Fire Fighting Robot Contest of Indonesia, Regional I (Riau, 2018) | Ministry of Research, Technology and Higher Education Indonesia
 
 
 # 💻 Tech Stack:
