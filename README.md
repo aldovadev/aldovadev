@@ -25,11 +25,11 @@
 
 # 🏫 Formal Education Education:
 
-#### 1. [Universitas Negeri Padang](https://https://unp.ac.id/) | Bachelor of Electrical Engineering | Yogyakarta `2016(Paid leave)`
+#### 1. [Universitas Negeri Padang](https://https://unp.ac.id/) | Industrial Electrical Engineering | Yogyakarta `2016(Paid leave)`
    - Robotic and Automation Researcher
    - Electric Car Researcher
  
-#### 2. [SMA N 1 Ranah Pesisir]([https://www.sman1kebumen.sch.id](https://sman1ranahpesisir.sch.id/)) | MIPA | Pesisir Selatan `2013-2016`
+#### 2. [SMA N 1 Ranah Pesisir](https://sman1ranahpesisir.sch.id/) | MIPA | Pesisir Selatan `2013-2016`
    - Member of Class representative assembly
 
 # 🏆 Achievement:
