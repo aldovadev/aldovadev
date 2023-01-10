@@ -1,16 +1,19 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+### <div align="center">I'm Aldova, a full-time full-stack software developer 👨‍💻 working remotely as freelancer since 2018 🚀</div>  
   
 
-### <div align="center">I'm Aldova, a full-time full-stack software developer 👨‍💻 working remotely as freelancer since 2018 🚀</div>  
+- 🔭 I’m currently working on [praktech.id](https://www.instagram.com/praktech.id/?next=%2F)  
+  
 
--🔭 I’m currently working at Basitungkin Laboratory as software engineer
--🌱 I’m currently learning flutter
--💬 Ask me about anything
--📄 Know about my experiences : https://drive.google.com/file/d/1Emud5Xx_zilxoXWjZfBdNt3BDUpLG487/view?usp=sharing
--⚡ Hobby : gaming, hiking, badminton, and music  
--📫 How to reach me: aldova811@gmail.com
+- 🌱 I’m currently learning ReactJS and Laravel  
+  
+
+- ❓ Ask me about anything related stack and related technologies  
+  
+
+- ⚡ Fun fact: I cant work upside down  
+  
+
+<br/>  
 
 
 ## 🌐 Socials:
