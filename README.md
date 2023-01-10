@@ -42,7 +42,7 @@
 #### 2. [Best Algorithm Appreciation](https://drive.google.com/file/d/1nBIk83ZE_KRjD2H07SH1zUfdnNibuv-F/view?usp=sharing), Fire Fighting Robot Contest of Indonesia, Regional I | `Riau, 2018`
 - Ministry of Research, Technology and Higher Education Indonesia | [Dikti](https://dikti.kemdikbud.go.id/)
 
-#🗄️Orgranization Expirience:
+# 🗄 Orgranization Expirience:
 
 #### [Robotics & Automation Student Activity Unit](http://robotik.pkm.unp.ac.id/) | UKRO
 - Leader of Fire Fighting Robot Division | `2017 - 2018`
