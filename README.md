@@ -58,7 +58,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yunomi811&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yunomi811&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yunomi811&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/username=yunomi811&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31v4p5epzvrvgcjn2bv2rsqoaq5a&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=5e4eb1)](https://github.com/kittinan/spotify-github-profile)
 
