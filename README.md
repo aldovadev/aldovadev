@@ -4,7 +4,7 @@
 
 <br/>
 
-### <div align="center">I'm Aldova, a full-time full-stack software developer 👨‍💻 working remotely as freelancer since 2018 🚀</div>  
+### <div align="center">I'm Aldova aka Yunomi, a full-time full-stack software developer 👨‍💻 working remotely as freelancer since 2018 🚀</div>  
   
 <br/>
 
