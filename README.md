@@ -20,7 +20,7 @@
 - ⚡ Fun fact: I cant work upside down  
 
 
-- 🗏 here my [resume](https://drive.google.com/file/d/1JTPdqLBLxc6T51NIeNF9VUsPBmU9Cyfy/view?usp=share_link)!
+- 🗏 here my [resume](https://drive.google.com/file/d/15RG7ibTZ-wIHo02PWwM-x3yxd3UJqeOn/view?usp=share_link)!
   
 
 <br/>  
