@@ -27,7 +27,7 @@
 
 # 🏫 Formal Education Education:
 
-#### 1. [Universitas Negeri Padang](https://https://unp.ac.id/) | Industrial Electrical Engineering | Padang, `2016`
+#### 1. [Universitas Negeri Padang](https://unp.ac.id/) | Industrial Electrical Engineering | Padang, `2016`
    - Robotic and Automation Researcher
    - Electric Car Researcher
  
