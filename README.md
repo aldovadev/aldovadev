@@ -25,15 +25,6 @@
 
 <br/>  
 
-# 🏫 Formal Education Education:
-
-#### 1. [Universitas Negeri Padang](https://unp.ac.id/) | Industrial Electrical Engineering | Padang, `2016`
-   - Robotic and Automation Researcher
-   - Electric Car Researcher
- 
-#### 2. [SMA N 1 Ranah Pesisir](https://sman1ranahpesisir.sch.id/) | MIPA | Pesisir Selatan `2013-2016`
-   - Member of Class representative assembly
-
 # 🏆 Achievement:
 
 #### 1. [1st  Place](https://drive.google.com/file/d/1rZNYBb4fiwVNZ5ORHnTvPYzf3OvrAPJl/view?usp=sharing), Fire Fighting Robot Contest of Indonesia, Regional I | `Riau, 2018`
@@ -42,7 +33,7 @@
 #### 2. [Best Algorithm Appreciation](https://drive.google.com/file/d/1nBIk83ZE_KRjD2H07SH1zUfdnNibuv-F/view?usp=sharing), Fire Fighting Robot Contest of Indonesia, Regional I | `Riau, 2018`
 - Ministry of Research, Technology and Higher Education Indonesia | [Dikti](https://dikti.kemdikbud.go.id/)
 
-# 🗄 Orgranization Expirience:
+# 🗄 Orgranization:
 
 #### [Robotics & Automation Student Activity Unit](http://robotik.pkm.unp.ac.id/) | UKRO
 - Leader of Fire Fighting Robot Division | `2017 - 2018`
